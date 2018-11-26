@@ -18,9 +18,9 @@ where YOUR-BUCKET is the bucket created by Cloudformation template.
 
 Note: When following the "Create the Athena tables" section, use following substitutions:
 
-<TwitterRawLocation> => s3://YOUR-BUKCET/raw/
+TwitterRawLocation => s3://YOUR-BUKCET/raw/
   
-<TwitterEntitiesLocation> => s3://YOUR-BUKCET/entities/
+TwitterEntitiesLocation => s3://YOUR-BUKCET/entities/
   
-<TwitterSentimentLocation> => s3://YOUR-BUKCET/sentiment/
+TwitterSentimentLocation => s3://YOUR-BUKCET/sentiment/
 
