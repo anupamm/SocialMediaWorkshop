@@ -12,6 +12,6 @@ aws s3 cp . s3://YOUR-BUKCET --recursive
 
 where YOUR-BUCKET is the bucket created by Cloudformation template.
 
-4. Once the command finishes running you should see see 3 folders (raw, sentiment & entities) in the your bucket.
+5. Once the command finishes running you should see see 3 folders (raw, sentiment & entities) in the your bucket.
 
-5. You can follow the workshop guide starting at setion "Create the Athena tables"
+6. You can follow the workshop guide starting at setion "Create the Athena tables"
